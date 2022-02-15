@@ -1,3 +1,4 @@
+#https://github.com/Axel-Germany/Micropython_Pico_DRV8825/edit/main/Pico-DRV8825.py
 from time import sleep
 from machine import Pin
 #STEPPER CONECTION
